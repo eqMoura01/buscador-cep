@@ -1,8 +1,20 @@
-# React + Vite
+# Buscador de CEP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto realizado com foco em aprendizado e pratica com o ReactJS e consumo de APIs com a biblioteca Axios.
 
-Currently, two official plugins are available:
+## Requisitos para rodar o projeto:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*1. Node instalado.*
+*2. Um terminal.*
+
+## Rodando o projeto em sua maquina:
+
+*1. Baixe o .zip do projeto;*
+*2. Extraia no seu computador;*
+*3. Abra o cmd a partir da pasta extraida;*
+*4. Rode o comando 'npm install';*
+*5. Rode o comando 'npm run dev';*
+*6. Ctrl + click no link que aparecer no terminal;*
+*7. Digite um CEP valido no input e clique na lupinha.*
+
+E pronto, se o CEP for valido, o programa irá trazer informações como rua, bairro, cidade, uf.
