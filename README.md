@@ -4,7 +4,7 @@ Projeto realizado com foco em aprendizado e pratica com o ReactJS e consumo de A
 
 ## Requisitos para rodar o projeto:
 
-*1. Node instalado.*
+*1. Node instalado.*\
 *2. Um terminal.*
 
 ## Rodando o projeto em sua maquina:
